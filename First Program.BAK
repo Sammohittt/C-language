@@ -1,0 +1,21 @@
+/*
+DEF : PRINT HELLO WORLD
+DEV : mohit
+DATE: 03-08-2023
+*/
+
+ # include<stdio.h>
+ # include<conio.h>
+ void main()
+ {
+   clrscr();
+   printf("hello world");
+   getch();
+ }
+
+
+
+
+
+
+
